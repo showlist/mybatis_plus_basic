@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    username: root
+    password: wys123456
+    url: jdbc:mysql://192.168.0.106:3306/mybatis_plus?serverTimezone=Asia/Shanghai&characterEncoding=utf8&useSSL=false
+    
+logging:
+  level:
+    {'logging.level.org.springframework':'DEBUG'}
+    
